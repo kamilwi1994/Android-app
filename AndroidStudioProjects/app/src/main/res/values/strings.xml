@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Vetplication</string>
+    <string-array name="dogMedMid">
+        <item>cimikoksyb</item>
+        <item>firokoksyb</item>
+        <item>fluniksyna</item>
+        <item>gabapentyna</item>
+        <item>grapiprant</item>
+        <item>karprofen</item>
+        <item>kwas tolfenamowy</item>
+        <item>maropitant</item>
+        <item>meloksykam</item>
+        <item>metamizol</item>
+        <item>robenakoksyb</item>
+
+    </string-array>
+
+    <string-array name="dogMedHigh">
+        <item>buprenorfina</item>
+        <item>fentanyl</item>
+        <item>metadon</item>
+        <item>tramadol</item>
+    </string-array>
+
+    <string-array name="catMedMid">
+        <item>fluniksyna</item>
+        <item>gabapentyna</item>
+        <item>karprofen</item>
+        <item>kwas tolfenamowy</item>
+        <item>maropitant</item>
+        <item>meloksykam</item>
+        <item>robenakoksyb</item>
+
+
+    </string-array>
+
+    <string-array name="catMedHigh">
+        <item>buprenorfina</item>
+        <item>butorfanol</item>
+        <item>metadon</item>
+        <item>tramadol</item>
+
+    </string-array>
+</resources>
